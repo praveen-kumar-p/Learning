@@ -1,5 +1,7 @@
 package ex_Lab001;
 
+import java.util.Arrays;
+import java.util.Collections;
 import java.util.Scanner;
 
 public class Prat001 {
@@ -206,5 +208,83 @@ public class Prat001 {
 //                System.out.println(num[i]);
 //            }
 //        }
+
+
+//        int[] num = {4,8,1,10,2};
+//        num[2] = 3;
+//        System.out.println(num[0]);
+//        System.out.println(num[2]);
+//
+//        for (int i = 0; i < 5; i++) {
+//            Arrays.sort(num);
+//        }
+//        System.out.println(Arrays.toString(num));
+
+//        int n[] = new int[3];
+//        n[0] = 10;
+//        n[1] = 20;
+//        n[2] = 5;
+//
+//        System.out.println(n[0]);
+//        System.out.println(n[1]);
+//        System.out.println(n[2]);
+
+        //Multidimensional Arrays
+//        int[][] mynumber = {{1,2,3,4}, {5,6,7}};
+//        System.out.println(mynumber[1][2]);
+//        //change the element value
+//        mynumber[1][2] = 8;
+//        System.out.println(mynumber[1][2]);
+
+
+//        Scanner sc = new Scanner(System.in);
+//        System.out.println("Enter the numbers");
+//        int n = sc.nextInt();
+//
+//        for (int i = 1; i <= n; i++) {
+//            for (int j = 1; j <= n-1; j++) {
+//                System.out.print("");
+//            }
+//            for (int k = 1; k <= i; k++) {
+//                System.out.print("*");
+//            }
+//            System.out.println();
+//        }
+
+        // loop through the multidimension
+
+//        int[][] num = {{1,2,3,4}, {5,6,7}};
+//        for (int i = 0; i < num.length; i++) {
+//            for (int j = 0; j < num[i].length; j++) {
+//                System.out.println(num[i][j]);
+//            }
+//        }
+
+        // Max and Min number from the array
+//        int[] n = { 1, 423, 6, 46, 34, 23, 13, 53, 4 };
+//        int min = n[0];
+//        int max = n[0];
+//
+//        for (int i = 0; i < n.length; i++) {
+//            if (n[i] > max) {
+//                max=n[i];
+//            }
+//            if (n[i]<min){
+//                min = n[i];
+//            }
+//        }
+//        System.out.println(max);
+//        System.out.println(min);
+
+        //even numbers
+//        int[] n = { 1, 423, 6, 46, 34, 23, 13, 53, 4 };
+//
+//        for (int i = 0; i < n.length; i++) {
+//            if (i%2 == 0) {
+//                System.out.println("Even Numbers --> " + n[i]);
+//            }
+//        }
+
+
     }
 }

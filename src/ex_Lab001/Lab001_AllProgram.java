@@ -30,12 +30,44 @@ public class Lab001_AllProgram {
 
         //Print program to print even and odd numbers
 //        for (int i = 0; i < 10; i++) {
-//            if (i%2 != 0) {
+//            if (i%2 == 0) {
 //                System.out.println("Even Numbers --> " + i);
-//            }else{
-//                System.out.println("odd Numbers --> " + i);
 //            }
 //        }
+
+//        String s1 = "PRamod";
+//        String s2 = "Dutta";
+//        int x = 99;
+//        int y = 100;
+//
+//        System.out.println(x+y+s1+s2);
+//        System.out.println(s1+x+y+s1+s2);
+//        System.out.println(s2+(x+y)+s2+s1);
+
+        //even numbers
+//        int[] n = { 1, 423, 6, 46, 34, 23, 13, 53, 4 };
+//
+//        for (int i = 0; i < n.length; i++) {
+//            if (i%2 == 0) {
+//                System.out.println("Even Numbers --> " + n[i]);
+//            }
+//        }
+
+        // Max and Min number from the array
+//        int[] n = { 1, 423, 6, 46, 34, 23, 13, 53, 4 };
+//        int min = n[0];
+//        int max = n[0];
+//
+//        for (int i = 0; i < n.length; i++) {
+//            if (n[i] > max) {
+//                max=n[i];
+//            }
+//            if (n[i]<min){
+//                min = n[i];
+//            }
+//        }
+//        System.out.println(max);
+//        System.out.println(min);
 
 
     }

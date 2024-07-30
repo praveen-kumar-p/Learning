@@ -10,5 +10,6 @@ public class Lab002_Person {
         person.eat();
         System.out.println(person.name);
         System.out.println(person.gender);
+
     }
 }
