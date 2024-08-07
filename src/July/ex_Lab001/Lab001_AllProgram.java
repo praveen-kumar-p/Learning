@@ -1,7 +1,4 @@
-package ex_Lab001;
-
-import java.sql.SQLOutput;
-import java.util.Scanner;
+package July.ex_Lab001;
 
 public class Lab001_AllProgram {
     public static void main(String[] args) {

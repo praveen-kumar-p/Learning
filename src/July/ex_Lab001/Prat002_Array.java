@@ -1,7 +1,4 @@
-package ex_Lab001;
-
-import java.util.Arrays;
-import java.util.Collections;
+package July.ex_Lab001;
 
 public class Prat002_Array {
     public static void main(String[] args) {

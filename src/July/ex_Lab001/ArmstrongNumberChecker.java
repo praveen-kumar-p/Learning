@@ -1,6 +1,4 @@
-package ex_Lab001;
-
-import java.util.Scanner;
+package July.ex_Lab001;
 
 public class ArmstrongNumberChecker {
     public static void main(String[] args) {

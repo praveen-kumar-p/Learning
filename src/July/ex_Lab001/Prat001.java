@@ -1,8 +1,4 @@
-package ex_Lab001;
-
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.Scanner;
+package July.ex_Lab001;
 
 public class Prat001 {
     public static void main(String[] args) {

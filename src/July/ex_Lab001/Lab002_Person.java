@@ -1,4 +1,4 @@
-package ex_Lab001;
+package July.ex_Lab001;
 
 public class Lab002_Person {
     public static void main(String[] args) {
