@@ -285,6 +285,57 @@ public class Prat001 {
 //            }
 //        }
 
+//        Scanner input = new Scanner(System.in);
+//        System.out.print("Enter The Number : ");
+//        int number = input.nextInt();
+//
+//        if (isPalindrome(number)) {
+//            System.out.println(number + " is a palindrome.");
+//        } else {
+//            System.out.println(number + " is not a palindrome.");
+//        }
+//    }
+//
+//    private static boolean isPalindrome(int number) {
+//        int on = number;
+//        int rev = 0;
+//        for (int temp = number; temp != 0; temp /= 10) {
+//            int digit = temp % 10;
+//            rev = rev * 10 + digit;
+//        }
+//        return on == rev;
+
+
+//        int[] num = {23,5,67,20,3,30,79,3,70,2};
+//        Arrays.sort(num);
+//        System.out.println(Arrays.toString(num));
+//
+//        Integer[] arr = {23,5,67,20,3,30,79,3,70,2};
+//        System.out.println("Original Array : "+Arrays.toString(arr));
+//        Arrays.sort(arr, Collections.reverseOrder());
+//        System.out.println("Sorted Array : "+Arrays.toString(arr));
+
+//        int[] Array = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+//        int sum = 0;
+//        for (int i = 1; i <= Array.length; i++) {
+//            sum += i;
+//        }
+//        System.out.println(sum);
+
+//        int[] Array = {1, 2, 3, 4, 5};
+//        int sum = 0;
+//        int avg = 0;
+//        for (int i = 0; i <= Array.length; i++) {
+//            sum = sum + i;
+//            avg = sum / Array.length;
+//        }
+//        System.out.println(sum);
+//        System.out.println(avg);
+
+//        int[] Array = {23, 4, 32, 5, 75};
+//        System.out.println(Arrays.stream(Array).max());
+//        System.out.println(Arrays.stream(Array).min());
+
 
     }
 }

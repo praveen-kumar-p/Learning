@@ -11,5 +11,8 @@ public class Lab002_Person {
         System.out.println(person.name);
         System.out.println(person.gender);
 
+        person.talk();
+        System.out.println();
+
     }
 }
