@@ -274,7 +274,7 @@ public class Prat001 {
 
         //even numbers
 //        int[] n = { 1, 423, 6, 46, 34, 23, 13, 53, 4 };
-//
+////
 //        for (int i = 0; i < n.length; i++) {
 //            if (i%2 == 0) {
 //                System.out.println("Even Numbers --> " + n[i]);
