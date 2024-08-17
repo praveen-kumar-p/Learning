@@ -332,6 +332,14 @@ public class Prat001 {
 //        System.out.println(Arrays.stream(Array).max());
 //        System.out.println(Arrays.stream(Array).min());
 
+//        int row = 5;
+//        for (int i = 1; i <= row; i++) {
+//            int j;
+//            for (j = 1; j <= i; j++){
+//                System.out.print("* ");
+//            }
+//            System.out.println();
+//        }
 
     }
 }

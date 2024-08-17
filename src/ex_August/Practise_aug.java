@@ -122,5 +122,19 @@ public class Practise_aug {
 //            }
 //        }
 //        System.out.println(sum);
+
+//------------------------------------------------------------------------
+        //Write a program to search an element in an array
+//        int[] Array = {10, 20, 30, 40, 50};
+//        System.out.println(Array[3]);
+//        System.out.println(Array[2]);
+
+        //----------------------------------------------------------------------
+
+        //Write a program to find the second smallest element in an array
+//        int[] Array = {10, 20, 5, 2, 30};
+//        Arrays.sort(Array);
+//        System.out.println(Arrays.toString(Array));
+//        System.out.println(Array[1]);
     }
 }

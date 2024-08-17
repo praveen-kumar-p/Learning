@@ -7,11 +7,11 @@ public class BankAccount {
     int balance;
     String bankcode;
 
-//    BankAccount(){
-//        bankname = "HDFC";
-//        balance = 100;
-//        bankcode = "HDFC001";
-//    }
+    BankAccount(){
+        bankname = "HDFC";
+        balance = 100;
+        bankcode = "HDFC001";
+    }
 
     BankAccount(String bName,int bal, String bCode) {
         this.bankname = bName;
@@ -19,9 +19,4 @@ public class BankAccount {
         this.bankcode = bCode;
     }
 
-    void printDetails() {
-        System.out.println("Bank Name -> " + bankname);
-        System.out.println("Bank Code -> " + bankcode);
-        System.out.println("Bal ->" + balance);
-    }
 }
