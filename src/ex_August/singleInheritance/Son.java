@@ -6,6 +6,6 @@ public class Son extends Father{
     }
 
     void home1(){
-        System.out.println("2BHK");
+        System.out.println("1BHK");
     }
 }

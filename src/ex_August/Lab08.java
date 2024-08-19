@@ -18,5 +18,16 @@ public class Lab08 {
         System.out.println(boi.bankname);
         System.out.println(boi.balance);
         System.out.println(boi.bankcode);
+
+        BankAccount sb = new BankAccount("State Bank of India", 1000, "SBI002");
+        System.out.println(sb.bankname);
+        System.out.println(sb.balance);
+        System.out.println(sb.bankcode);
+
+
+        BankAccount hdfc = new BankAccount("HDFC", 2000, "HDFC01245");
+        System.out.println(hdfc.bankname);
+        System.out.println(hdfc.balance);
+        System.out.println(hdfc.bankcode);
     }
 }
