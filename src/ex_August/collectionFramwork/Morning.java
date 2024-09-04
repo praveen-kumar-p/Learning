@@ -7,6 +7,5 @@ public class Morning {
 
         List shopping = List.of("Milk", "Bread", "Milk", "cheese");
         System.out.println(shopping);
-        shopping.clear();
     }
 }

@@ -2,7 +2,7 @@ package ex_August;
 
 public class BankAccount {
 
-    //This are Instance variables
+    // These are Instance variables
     String bankname;
     int balance;
     String bankcode;

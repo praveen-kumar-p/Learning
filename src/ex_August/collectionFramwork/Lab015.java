@@ -14,7 +14,7 @@ public class Lab015 {
         System.out.println(mylist.size());
         System.out.println(mylist.contains("Prakash"));
         System.out.println(mylist.get(2));
-
-
+        mylist.add(2, "Shantha");
+        System.out.println(mylist);
     }
 }
