@@ -1,7 +1,4 @@
-package ex_04092024;
-
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
+package September.ex_04092024;
 
 public class Excep {
     public static void main(String[] args) {
